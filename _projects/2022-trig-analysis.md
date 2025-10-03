@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Analysis of Functions
-description: Class project with Graphs
+title: 2020 Homework 4
+description: Device
 technologies: [MATLAB, python]
 image: /assets/images/function-graph.png
 ---
