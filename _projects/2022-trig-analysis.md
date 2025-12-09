@@ -21,3 +21,4 @@ OUTCOME:
 - Max Load: 23.98 KN
 - Max Height: 450mm
 
+Finding Beam Dimensions:
