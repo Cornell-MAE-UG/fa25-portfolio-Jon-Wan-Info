@@ -22,3 +22,8 @@ OUTCOME:
 - Max Height: 450mm
 
 Finding Beam Dimensions:
+![alt text](/assets/images/2020portfolio2.png)
+
+- Due to loading the beam is a two force member
+- Material, size, and shape driven by compression
+- Acrylic 2 x 3 x L cm Bar choosen
