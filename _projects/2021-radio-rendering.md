@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Radio CAD Rendering
-description: Advanced CAD Project
-technologies: [Autodesk Fusion]
+title: Refrigerator (Dometic CF-35) & Compressor (SECOP BD35F)
+description: Analyzing the Thermodynamic Efficiency of a Refrigerator
+technologies: Calculations for Efficiency
 image: /assets/images/radio-machine-cad.jpg
 ---
 
@@ -30,4 +30,4 @@ Compressor: Raises refrigerant pressure and temperature.
 Condenser: Rejects heat to ambient air.
 Expansion device: Throttles refrigerant to low temperature and pressure.
 
-![Photo of old radio]({{ "/assets/images/old-radio.jpg" | relative_url }}){: .inline-image-l}
+![Cycle Analysis]({{ "/assets/images/2210CALC.png" | relative_url }}){: .inline-image-l}
