@@ -28,7 +28,7 @@ Compressor: Raises refrigerant pressure and temperature.
 Condenser: Rejects heat to ambient air.
 Expansion device: Throttles refrigerant to low temperature and pressure.
 
-![Cycle Analysis]({{ "/assets/images/2210CALC.png" | relative_url }}){: .inline-image-l}
+![Cycle Analysis]({{ "/assets/images/2210Calcs.png" | relative_url }}){: .inline-image-l}
 
 Using the Work and Thermal Transfer found above, we can find that the fridge has:
 
