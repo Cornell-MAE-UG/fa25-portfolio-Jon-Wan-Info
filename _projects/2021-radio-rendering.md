@@ -3,7 +3,7 @@ layout: project
 title: Refrigerator (Dometic CF-35) & Compressor (SECOP BD35F)
 description: Analyzing the Thermodynamic Efficiency of a Refrigerator
 technologies: Calculations for Efficiency
-image: /assets/images/radio-machine-cad.jpg
+image: /assets/images/2210Fridge.png
 ---
 
 Refrigerator (Dometic CF-35)
@@ -21,8 +21,6 @@ Nominal compressor input power: 45–60 W
 Cooling capacity at −10 °C evaporating and 45 °C condensing: ~120 W
 Compressor displacement: 2.0 cm³
 
-![Photo of old radio]({{ "/assets/images/old-radio.jpg" | relative_url }}){: .inline-image-l}
-
 The CF-35 operates on the standard four-stage vapor-compression cycle:
 
 Evaporator: Refrigerant absorbs heat from the refrigerated interior.
@@ -31,3 +29,11 @@ Condenser: Rejects heat to ambient air.
 Expansion device: Throttles refrigerant to low temperature and pressure.
 
 ![Cycle Analysis]({{ "/assets/images/2210CALC.png" | relative_url }}){: .inline-image-l}
+
+Using the Work and Thermal Transfer found above, we can find that the fridge has:
+
+COP(Actual): 2.18
+COP(Carnot): 4.78
+COP(Carnot to Actual): 
+
+![Cycle Analysis]({{ "/assets/images/2210COP.png" | relative_url }}){: .inline-image-l}
