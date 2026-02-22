@@ -1,11 +1,11 @@
 
+
 ---
-fontsize: 11pt
-geometry: margin=1in
-papersize: letter
-pagestyle: empty
-header-includes: \pagenumbering{gobble}
-output: pdf_document
+layout: project
+title: 2020 Homework 4
+description: Device
+technologies: [MATLAB, python]
+image: /assets/images/homework4.png
 ---
 
 ## Attacking Spotted Lanternflies' Reproduction Rate
