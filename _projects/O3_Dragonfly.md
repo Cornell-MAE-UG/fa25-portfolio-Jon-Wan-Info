@@ -1,5 +1,3 @@
-
-
 ---
 layout: project
 title: 03_Dragonfly
