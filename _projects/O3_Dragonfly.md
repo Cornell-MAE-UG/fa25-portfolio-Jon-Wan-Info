@@ -4,7 +4,6 @@ title: 03_Dragonfly
 description: Device
 technologies: [MATLAB, python]
 image: /assets/images/homework4.png
-permalink: /_projects/03_Dragonfly.md
 ---
 
 ## Attacking Spotted Lanternflies' Reproduction Rate
@@ -45,7 +44,7 @@ This involves weaving netting in a spiral formation to funnel and trap nymph SLF
 3. **What are the main barriers to removing egg masses: are they too high to reach, too hard to scrape off due to geometry of the object, or a difficult consistency?**  
    *Decision affected:* Knowing this will allow us to design the geometry of the scraper for as many situations as possible and inform what features to focus on. 
 
-\newpage
+---
 
 ### References
 
