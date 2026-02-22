@@ -2,7 +2,7 @@
 
 ---
 layout: project
-title: 2020 Homework 4
+title: 03_Dragonfly
 description: Device
 technologies: [MATLAB, python]
 image: /assets/images/homework4.png
