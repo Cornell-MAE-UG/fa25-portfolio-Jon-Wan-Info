@@ -6,6 +6,7 @@ title: 03_Dragonfly
 description: Device
 technologies: [MATLAB, python]
 image: /assets/images/homework4.png
+permalink: /_projects/03_Dragonfly.md
 ---
 
 ## Attacking Spotted Lanternflies' Reproduction Rate
