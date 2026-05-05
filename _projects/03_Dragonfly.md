@@ -10,9 +10,12 @@ image: /assets/images/SLF.png
 **Team:** _Team Dragonfly_ **Clients:** Cornell CALS Extension / E\&J Gallo Winery / National Grape
 
 ## Table of Contents
+
 [Client Pitch](#client-pitch)
+
 [Functional Prototype](#functional-prototype)
-[Client Report](#client-reports)
+
+[Client Report](#client-report)
 
 
 ## Client Pitch
@@ -56,7 +59,19 @@ This involves weaving netting in a spiral formation to funnel and trap nymph SLF
 
 ## Functional Prototype
 
+**Prototype**
+
+**Assembly**
+
+**Test**
+
+**Success Criteria**
+
 ## Client Report
+
+**Final Prototype**
+
+**Conclusion & Recommendation**
 
 ---
 
