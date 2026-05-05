@@ -9,6 +9,16 @@ image: /assets/images/SLF.png
 ## Attacking Spotted Lanternflies' Reproduction Rate
 **Team:** _Team Dragonfly_ **Clients:** Cornell CALS Extension / E\&J Gallo Winery / National Grape
 
+## Table of Contents
+[Client Pitch](#client-pitch)
+[Functional Prototype](#functional-prototype)
+[Client Report](#client-reports)
+
+
+## Client Pitch
+**Summary**
+Our team created an extendable compliant scraper to attach SLFs in their egg phase, reducing the growth of their population. Our Scraper extends and conforms to a plethora of surfaces to ensure that egg masses anywhere on any surface can be removed.
+
 **Problem Statement:**
 Grape farmers in the Northeast US are invaded by spotted lanternflies (SLFs) that infiltrate harvests. The SLF population grows rapidly due to many nymphs surviving to adulthood, where they reproduce abundantly, increasing their population by a factor of 5.47. Current solutions primarily target adults, but rapid population growth is already occurring by this stage, increasing the severity of their impact regardless. 
 
@@ -42,7 +52,11 @@ This involves weaving netting in a spiral formation to funnel and trap nymph SLF
 2. **What traps are currently in use - how do they lure the SLFs, and are they effective?** 
    *Decision affected:* We can learn from these experiences to modify our traps (specifically the netting) to avoid ideas that do not work in practice.
 3. **What are the main barriers to removing egg masses: are they too high to reach, too hard to scrape off due to geometry of the object, or a difficult consistency?**  
-   *Decision affected:* Knowing this will allow us to design the geometry of the scraper for as many situations as possible and inform what features to focus on. 
+   *Decision affected:* Knowing this will allow us to design the geometry of the scraper for as many situations as possible and inform what features to focus on.
+
+## Functional Prototype
+
+## Client Report
 
 ---
 
