@@ -8,7 +8,7 @@ image: /assets/images/weedwacker.png
 
 ## Project Overview
 
-Describe your project here.
+Dissection and Fluid Device Analysis of WeedWacker
 
 ## Design Process
 
