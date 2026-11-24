@@ -3,7 +3,7 @@ layout: project
 title: Fluids Dissection
 description: 3230
 technologies: [SolidWorks, ANSYS]
-image: /assets/images/suspension.png
+image: /assets/images/weedwacker.png
 ---
 
 ## Project Overview
